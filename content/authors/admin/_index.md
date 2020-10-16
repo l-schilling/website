@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include mobile robotics, machine learning and sensors.
 
 interests:
+- Mobile Robotics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sensors
 
 education:
   courses:
@@ -50,7 +50,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/l-schilling
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lars Schilling is a PhD candidate at the University of Lübeck. His research interests include mobile robotics, especially in the area of outdoor and multi robot systems.
